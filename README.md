@@ -1,4 +1,4 @@
-# <img align="left" alt="Biospreed" width="40px" src="" draggable="false" /> Biospreed ([Click to try 🚀](https://biospreed.tk/))
+# Biospreed ([Click to try 🚀](https://biospreed.tk/))
 
 Create your biopage 📃 quickly and easily with Biospreed. 🌱
 
