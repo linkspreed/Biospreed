@@ -1,11 +1,9 @@
-# <img align="left" alt="Analytix" width="40px" src="https://analytix.tk/uploads/brand/ys17CmIE61mY5SrzlKBu2UbanlIvzwW2l7qmb9PX.png" draggable="false" /> Analytix ([Click to try 🚀](https://analytix.tk/))
+# <img align="left" alt="Biospreed" width="40px" src="" draggable="false" /> Biospreed ([Click to try 🚀](https://biospreed.tk/))
 
-Analytix💙 - as a developer,👨‍💻 get deep insights and analyzes for your websites📈 - free of charge, unlimited storage space and in real time
+Create your biopage 📃 quickly and easily with Biospreed. 🌱
 
-
-
-## **[Changelog 💙](https://github.com/linkspreed/Analytix/blob/main/changelog.md)** **Check out the full Analytix changelog**
-## **[Special Works 👨‍💻](https://github.com/linkspreed/Analytix/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Analytix besides development**
+## **[Changelog 📃](https://github.com/linkspreed/Biospreed/blob/main/changelog.md)** **Check out the full Biospreed changelog**
+## **[Special Works 👨‍💻](https://github.com/linkspreed/Biospreed/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Biospreed besides development**
 
 
 <div align="center">
