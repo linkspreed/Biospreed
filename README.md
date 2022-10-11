@@ -2,7 +2,7 @@
 
 Create your biopage 📃 quickly and easily with Biospreed. 🌱
 
-## **[Changelog 📃](https://github.com/linkspreed/Biospreed/blob/main/changelog.md)** **Check out the full Biospreed changelog**
+## **[Changelog 📃](https://github.com/linkspreed/Biospreed/blob/main/changelog.txt)** **Check out the full Biospreed changelog**
 ## **[Special Works 👨‍💻](https://github.com/linkspreed/Biospreed/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Biospreed besides development**
 
 
