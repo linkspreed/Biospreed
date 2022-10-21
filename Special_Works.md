@@ -1,4 +1,9 @@
 ### 21.10.2022 (announcement Biospreed)
+- The launch of version 25.1.0 of **Biospreed** was successful! 🥳
+- The new update is live now :)
+- https://biospreed.tk 🔗
+
+### 21.10.2022 (announcement Biospreed)
 - We are now starting the launch of v25.1.0.
 
 ### 21.10.2022 (announcement Biospreed)
