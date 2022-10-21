@@ -1,4 +1,7 @@
 ### 21.10.2022 (announcement Biospreed)
+- We are now starting the launch of v25.1.0.
+
+### 21.10.2022 (announcement Biospreed)
 - The server and code for the new version are now ready for launch.
 
 ### 21.10.2022 (announcement Biospreed)
