@@ -1,3 +1,6 @@
+### 22.10.2022 (announcement Biospreed)
+- We are currently working on developing 3 plugins for **Biospreed**.
+
 ### 21.10.2022 (announcement Biospreed)
 - https://github.com/linkspreed/Biospreed/blob/main/changelog.txt
 - The entire changelog is now available on Github.
