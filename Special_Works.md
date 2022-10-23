@@ -1,3 +1,6 @@
+### 23.10.2022 (announcement Biospreed)
+- We are now launching a few plugins for **Biospreed**.
+
 ### 22.10.2022 (announcement Biospreed)
 - We will probably release the 3 new plugins for **Biospreed** in the course of the next week.
 
