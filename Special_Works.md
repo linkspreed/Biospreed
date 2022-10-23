@@ -1,4 +1,7 @@
 ### 23.10.2022 (announcement Biospreed)
+- We are now starting the launch of the Team and Extrablock plugin for **Biospreed**. 🚀
+
+### 23.10.2022 (announcement Biospreed)
 - We are now launching a few plugins for **Biospreed**.
 
 ### 22.10.2022 (announcement Biospreed)
