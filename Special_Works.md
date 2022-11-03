@@ -1,3 +1,6 @@
+### 03.11.2022 (announcement Biospreed)
+- We're working on v26.0.0
+
 ### 23.10.2022 (announcement Biospreed)
 - The two new plugins for **Biospreed** are now freely available for every user.
 
