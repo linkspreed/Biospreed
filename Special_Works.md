@@ -1,4 +1,7 @@
 ### 04.11.2022 (announcement Biospreed)
+- All new tools are now available. :D
+
+### 04.11.2022 (announcement Biospreed)
 -  https://github.com/linkspreed/Biospreed/blob/main/changelog.txt
 - The entire changelog is now available on Github.
 
