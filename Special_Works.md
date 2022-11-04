@@ -1,3 +1,6 @@
+### 04.11.2022 (announcement Biospreed)
+- We're working on the platform.
+
 ### 03.11.2022 (announcement Biospreed)
 - We're working on v26.0.0
 
