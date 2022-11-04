@@ -1,4 +1,7 @@
 ### 04.11.2022 (announcement Biospreed)
+- The code is now ready for the launch of version 26.0.0 for **Biospreed**.
+
+### 04.11.2022 (announcement Biospreed)
 -  **Biospreed** gets a big update today - we are going to launch v26.0.0. 😍
 
 ### 04.11.2022 (announcement Biospreed)
