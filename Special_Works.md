@@ -1,4 +1,7 @@
 ### 05.11.2022 (announcement Biospreed)
+- The new Team plugin for v26.0.0 is now available.
+
+### 05.11.2022 (announcement Biospreed)
 - We have updated the Team Plugin.
 
 ### 05.11.2022 (announcement Biospreed)
