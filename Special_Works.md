@@ -1,4 +1,7 @@
 ### 05.11.2022 (announcement Biospreed)
+- The three new plugins are now available.
+
+### 05.11.2022 (announcement Biospreed)
 - We're publishing 3 new plugins now.
 
 ### 05.11.2022 (announcement Biospreed)
