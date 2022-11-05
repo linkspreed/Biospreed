@@ -1,4 +1,7 @@
 ### 05.11.2022 (announcement Biospreed)
+- We have updated the Team Plugin.
+
+### 05.11.2022 (announcement Biospreed)
 - We're working on the Teams plugin.
 
 ### 04.11.2022 (announcement Biospreed)
