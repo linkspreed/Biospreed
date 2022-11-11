@@ -1,4 +1,7 @@
 ### 11.11.2022 (announcement Biospreed)
+- We are currently working on enabling you to register on **Biospreed** with your Discord account in the future.
+
+### 11.11.2022 (announcement Biospreed)
 - The new icon for **Biospreed**.
 - https://user-images.githubusercontent.com/102324985/201409809-b8c0fea7-f4fd-48e9-b77c-db1ac278d738.png
 
