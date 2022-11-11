@@ -1,4 +1,4 @@
-# <img src="https://biospreed.tk/uploads/main/8d214b9824e731daf891cfeac37fa36c.png" alt="Website Logo"/>![image](https://user-images.githubusercontent.com/102324985/201408108-b9501f21-c383-4f14-a0f2-c50d1a558303.png)
+# <img align="left" alt="Biospreed" width="300px" src="https://biospreed.tk/uploads/main/8d214b9824e731daf891cfeac37fa36c.png" draggable="false" />
 ([Click to try 🚀](https://biospreed.tk/))
 
 Create your biopage 📃 quickly and easily with Biospreed. 🌱
