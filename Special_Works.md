@@ -1,4 +1,7 @@
 ### 11.11.2022 (announcement Biospreed)
+- We are currently working on enabling you to register on **Biospreed** with your Google account in the future.
+
+### 11.11.2022 (announcement Biospreed)
 - We are currently working on enabling you to register on **Biospreed** with your Discord account in the future.
 
 ### 11.11.2022 (announcement Biospreed)
