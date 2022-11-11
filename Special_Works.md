@@ -1,3 +1,7 @@
+### 11.11.2022 (announcement Biospreed)
+- The new logo for **Biospreed**.
+- https://user-images.githubusercontent.com/102324985/201408928-2345279e-b870-4a61-8a91-78250a5c4ebd.png
+
 ### 05.11.2022 (announcement Biospreed)
 - We've added these blocks to the collection for free today:
     - Timeline
