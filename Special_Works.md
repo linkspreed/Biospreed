@@ -1,3 +1,6 @@
+### 09.12.2022 (announcement Biospreed)
+- We're soon ready to pitch v27 of **Biospreed**.
+
 ### 15.11.2022 (announcement Biospreed)
 - We are working on many new updates - also on an update for **Biospreed** :D
 
