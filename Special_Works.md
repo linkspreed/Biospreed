@@ -1,4 +1,7 @@
 ### 10.12.2022 (announcement Biospreed)
+- The servers are now ready for the launch of version 27.0.0 for **Biospreed**.
+
+### 10.12.2022 (announcement Biospreed)
 - The code is now ready for the launch of version 27.0.0 for **Biospreed**.
 
 ### 10.12.2022 (announcement Biospreed)
