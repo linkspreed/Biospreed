@@ -1,4 +1,7 @@
 ### 18.12.2022 (announcement Biospreed)
+- We have updated this plugin: Affiliate Plugin
+
+### 18.12.2022 (announcement Biospreed)
 - We will now update the main plugins for **Biospreed** to the latest version!
 
 ### 18.12.2022 (announcement Snoogie)
