@@ -1,4 +1,7 @@
 ### 18.12.2022 (announcement Biospreed)
+- We have updated this plugin: Image Optimization Plugin
+
+### 18.12.2022 (announcement Biospreed)
 - We have updated this plugin: Affiliate Plugin
 
 ### 18.12.2022 (announcement Biospreed)
