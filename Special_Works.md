@@ -1,4 +1,10 @@
 ### 18.12.2022 (announcement Biospreed)
+- We will now update the main plugins for **Biospreed** to the latest version!
+
+### 18.12.2022 (announcement Snoogie)
+- We will now update the main plugins for **Snoogie** to the latest version!#
+
+### 18.12.2022 (announcement Biospreed)
 - We're working on **Biospreed**.
 
 ### 10.12.2022 (announcement Biospreed)
