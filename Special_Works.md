@@ -1,4 +1,7 @@
 ### 18.12.2022 (announcement Biospreed)
+- We have updated this plugin: More Blocks Plugin
+
+### 18.12.2022 (announcement Biospreed)
 - We have updated this plugin: Teams Plugin
 
 ### 18.12.2022 (announcement Biospreed)
