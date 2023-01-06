@@ -1,3 +1,6 @@
+### 05.01.2023 (announcement Biospreed)
+- We're working on **Biospreed** v28.
+
 ### 18.12.2022 (announcement Biospreed)
 - We have updated this plugin: More Blocks Plugin
 
