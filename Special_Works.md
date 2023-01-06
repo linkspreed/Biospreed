@@ -1,4 +1,7 @@
 ### 06.01.2023 (announcement Biospreed)
+- The servers are now ready for the launch of version 28.0.0 for **Biospreed**.
+
+### 06.01.2023 (announcement Biospreed)
 - The code is now ready for the launch of version 28.0.0 for **Biospreed**.
 
 ### 06.01.2023 (announcement Biospreed)
