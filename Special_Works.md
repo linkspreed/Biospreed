@@ -1,6 +1,3 @@
-### 06.01.2023 (announcement Snoogie)
-- We're working on **Snoogie** v28.
-
 ### 06.01.2023 (announcement Biospreed)
 - We're working on **Biospreed** v28.
 
