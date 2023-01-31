@@ -1,3 +1,6 @@
+### 31.01.2023 (announcement Biospreed)
+- We have updated the Image Optimization Plugin for **Biospreed**!
+
 ### 06.01.2023 (announcement Biospreed)
 - https://github.com/linkspreed/Biospreed/blob/main/changelog.txt
 - The entire changelog is now available on Github.
