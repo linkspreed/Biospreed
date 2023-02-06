@@ -1,4 +1,22 @@
 ### 06.02.2023 (announcement Biospreed)
+- https://github.com/linkspreed/Biospreed/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 06.02.2023 (announcement Biospreed)
+- The launch of version 29.0.0 of **Biospreed** was successful! 🥳
+- The new update is live now :)
+- https://biospreed.tk 🔗
+
+### 06.02.2023 (announcement Biospreed)
+- We are now starting the launch of v29.0.0.
+
+### 06.02.2023 (announcement Biospreed)
+- The servers are now ready for the launch of version 29.0.0 for **Biospreed**.
+
+### 06.02.2023 (announcement Biospreed)
+- The code is now ready for the launch of version 29.0.0 for **Biospreed**.
+
+### 06.02.2023 (announcement Biospreed)
 -  **Biospreed** gets a big update today - we are going to launch v29.0.0. 😍
 
 ### 04.02.2023 (announcement Biospreed)
