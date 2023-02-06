@@ -1,3 +1,6 @@
+### 06.02.2023 (announcement Biospreed)
+-  **Biospreed** gets a big update today - we are going to launch v29.0.0. 😍
+
 ### 04.02.2023 (announcement Biospreed)
   - Apple Music Embed
   - Tidal Music Embed
