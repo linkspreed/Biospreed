@@ -1,23 +1,23 @@
-### 11.02.2023 (announcement Snoogie)
-- https://github.com/linkspreed/Snoogie/blob/main/changelog.txt
+### 11.02.2023 (announcement Biospreed)
+- https://github.com/linkspreed/Biospreed/blob/main/changelog.txt
 - The entire changelog is now available on Github.
 
-### 11.02.2023 (announcement Snoogie)
-- The launch of version 30.1.0 of **Snoogie** was successful! 🥳
+### 11.02.2023 (announcement Biospreed)
+- The launch of version 30.1.0 of **Biospreed** was successful! 🥳
 - The new update is live now :)
-- https://snoogie.tk 🔗
+- https://biospreed.tk 🔗
 
-### 11.02.2023 (announcement Snoogie)
+### 11.02.2023 (announcement Biospreed)
 - We are now starting the launch of v30.1.0.
 
-### 11.02.2023 (announcement Snoogie)
-- The servers are now ready for the launch of version 30.1.0 for **Snoogie**.
+### 11.02.2023 (announcement Biospreed)
+- The servers are now ready for the launch of version 30.1.0 for **Biospreed**.
 
-### 11.02.2023 (announcement Snoogie)
-- The code is now ready for the launch of version 30.1.0 for **Snoogie**.
+### 11.02.2023 (announcement Biospreed)
+- The code is now ready for the launch of version 30.1.0 for **Biospreed**.
 
-### 11.02.2023 (announcement Snoogie)
--  **Snoogie** gets a big update today - we are going to launch v30.1.0. 😍
+### 11.02.2023 (announcement Biospreed)
+-  **Biospreed** gets a big update today - we are going to launch v30.1.0. 😍
 
 ### 11.02.2023 (announcement Biospreed)
 - Get ready to upgrade your #BioPage platform because Version 30.1 is launching soon! 🚀🌟
