@@ -1,4 +1,4 @@
-### 10.02.2023 (announcement Biospreed)
+### 11.02.2023 (announcement Biospreed)
 - Get ready to upgrade your #BioPage platform because Version 30.1 is launching soon! 🚀🌟
 - 💻💥 With new features and improved performance, you'll be able to streamline your workflow and maximize your productivity like never before!💥💻
 
