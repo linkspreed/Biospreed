@@ -1,3 +1,7 @@
+### 10.02.2023 (announcement Biospreed)
+- Get ready to upgrade your #BioPage platform because Version 30.1 is launching soon! 🚀🌟
+- 💻💥 With new features and improved performance, you'll be able to streamline your workflow and maximize your productivity like never before!💥💻
+
 ### 09.02.2023 (announcement Biospreed)
 - Today we finally released the long awaited Team Plugin for **Biospreed**. 
 - All existing users and new users now get the free ability to create, manage and grow teams.
