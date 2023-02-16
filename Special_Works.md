@@ -1,3 +1,7 @@
+### 16.02.2023 (announcement Biospreed)
+- We published the AI on **Biospreed**. 
+- However, the tool will only be fully functional in about 2 months!
+
 ### 11.02.2023 (announcement Biospreed)
 - https://github.com/linkspreed/Biospreed/blob/main/changelog.txt
 - The entire changelog is now available on Github.
