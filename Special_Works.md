@@ -1,3 +1,7 @@
+### 24.02.2023 (announcement Biospreed)
+- Get ready to leave a lasting impression with our new product launch - introducing the Biospreed mail signature tool! 
+- 🚀📧 Say goodbye to boring signatures and hello to endless possibilities! 🤩 #Biospreed #mailsignature #branding #marketing
+
 ### 19.02.2023 (announcement Biospreed)
 - https://github.com/linkspreed/Biospreed/blob/main/changelog.txt
 - The entire changelog is now available on Github.
