@@ -1,3 +1,6 @@
+### 26.02.2023 (announcement Biospreed)
+- Exciting news! We're still tirelessly working on AI solutions for Biospreed and have just launched our latest tool. It's not quite ready for action yet, but feel free to take a peek. Trust us, it's worth the wait! #AI #Biospreed #innovation
+
 ### 24.02.2023 (announcement Biospreed)
 - Get ready to leave a lasting impression with our new product launch - introducing the Biospreed mail signature tool! 
 - 🚀📧 Say goodbye to boring signatures and hello to endless possibilities! 🤩 #Biospreed #mailsignature #branding #marketing
