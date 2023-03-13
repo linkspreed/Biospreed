@@ -1,4 +1,4 @@
-#  <img align="left" alt="Biospreed" width="300px" src="https://biospreed.tk/uploads/main/8d214b9824e731daf891cfeac37fa36c.png" draggable="false" /> ([Click to try 🚀](https://biospreed.tk/)) (v30.2.0)
+#  <img align="left" alt="Biospreed" width="300px" src="https://biospreed.tk/uploads/main/8d214b9824e731daf891cfeac37fa36c.png" draggable="false" /> ([Click to try 🚀](https://biospreed.tk/)) (v31.0.0)
 
 Create your biopage 📃 quickly and easily with Biospreed. 🌱
 
