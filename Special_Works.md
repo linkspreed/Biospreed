@@ -1,4 +1,7 @@
 ### 13.03.2023 (announcement Biospreed)
+- Building a bio page has never been easier! BioSpreed's latest release, version 31.0.0, is now live with improved templates, easy-to-use editing tools, and seamless integrations with popular website builders. Create a stunning bio page that truly represents you with BioSpreed. Try it out today! #BioSpreed #BioPageCreator #WebsiteBuilder
+
+### 13.03.2023 (announcement Biospreed)
 - https://github.com/linkspreed/Biospreed/blob/main/changelog.txt
 - The entire changelog is now available on Github.
 
