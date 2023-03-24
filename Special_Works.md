@@ -1,4 +1,7 @@
 ### 24.03.2023 (announcement Biospreed)
+- Get excited #AI enthusiasts! Our new AI modules have arrived with a ton of fresh functions that will soon be available in our Premium Plan. Prepare to streamline your entire workflow in just a few weeks time 🚀 #ArtificialIntelligence #Optimization
+
+### 24.03.2023 (announcement Biospreed)
 - We've just revamped the AI modules for **Biospreed**! Our team is excited about the new changes and can't wait for you to see the improved performance. #AI #Biospreed #Rebooted
 
 ### 13.03.2023 (announcement Biospreed)
