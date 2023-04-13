@@ -1,3 +1,6 @@
+### 13.04.2023 (announcement Biospreed)
+- 🎉 Exciting news! 🎉 We're almost finished developing v32.0.0 of Biospreed! 🚀 Stay tuned for the latest updates! #Biospreed #softwareupdate #development
+
 ### 24.03.2023 (announcement Biospreed)
 - Get excited #AI enthusiasts! Our new AI modules have arrived with a ton of fresh functions that will soon be available in our Premium Plan. Prepare to streamline your entire workflow in just a few weeks time 🚀 #ArtificialIntelligence #Optimization
 
