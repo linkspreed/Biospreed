@@ -1,4 +1,7 @@
 ### 13.04.2023 (announcement Biospreed)
+- 📢Exciting news! 🎉 Biospreed v32.0.0 is now live and we've shared the patch notes on Github 📝. Get ready to experience faster and smoother browsing 🚀 #Biospreed #Update #Github
+
+### 13.04.2023 (announcement Biospreed)
 - https://github.com/linkspreed/Biospreed/blob/main/changelog.txt
 - The entire changelog is now available on Github.
 
