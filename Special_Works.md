@@ -1,3 +1,6 @@
+### 15.04.2023 (announcement Biospreed)
+- We have just uploaded the new AI plugin for Biospreed to version V5.0.0! Exciting news, as this latest AI is now available for all users on the platform 🚀 #AI #Biospreed #Version5
+
 ### 13.04.2023 (announcement Biospreed)
 - 📢Exciting news! 🎉 Biospreed v32.0.0 is now live and we've shared the patch notes on Github 📝. Get ready to experience faster and smoother browsing 🚀 #Biospreed #Update #Github
 
