@@ -1,4 +1,7 @@
 ### 03.05.2023 (announcement Biospreed)
+- 🔍👨‍💻 It's time to update the Biospreed plugins! 💻🔄 We're currently working on them and we'll keep you posted on the progress. 🚀 #Biospreed #PluginUpdates #TechNews 🤖🔌
+
+### 03.05.2023 (announcement Biospreed)
 - 🚀🌟 Our team is thrilled to announce the successful release of Biospreed Version 33.0.0! 🎉👏 However, we're not done yet and are working on some exciting developments tonight. Stay tuned for updates! #BiospreedVersion33 #SoftwareRelease #ExcitingDevelopments 🤖💻
 
 ### 03.05.2023 (announcement Biospreed)
