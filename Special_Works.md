@@ -1,4 +1,7 @@
 ### 03.05.2023 (announcement Biospreed)
+- 🎉 Our team has updated 5 plugins for Biospreed! 🚀 These include: 🖼️ Image optimization plugin, 👥 Teams plugin, 🧱 Additional blocks, 📱 Additional social media blocks, and ✉️ Email signature plugin. Keep your website running smoothly with these enhanced features! #webdevelopment #Biospreed #pluginupdates
+
+### 03.05.2023 (announcement Biospreed)
 - 🔍👨‍💻 It's time to update the Biospreed plugins! 💻🔄 We're currently working on them and we'll keep you posted on the progress. 🚀 #Biospreed #PluginUpdates #TechNews 🤖🔌
 
 ### 03.05.2023 (announcement Biospreed)
