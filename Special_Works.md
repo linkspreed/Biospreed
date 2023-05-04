@@ -1,4 +1,10 @@
 ### 04.05.2023 (announcement Biospreed)
+- 🎉We're thrilled to announce that the Biospreed API is now available for all account users for free! 🌐👨‍💻In addition to the API key, there's also a comprehensive documentation available in the panel. Stay tuned for more information in a social media post next week! #Biospreed #API #technology #innovation
+
+### 04.05.2023 (announcement Biospreed)
+- Biospreed is now using the Google Safe Browsing API to ensure your biopages are safer than ever before! 😎🔒 Protecting your information has never been easier. #Biospreed #GoogleSafeBrowsing #DataSecurity #PrivacyMatters 🌐🔍🛡️
+
+### 04.05.2023 (announcement Biospreed)
 - Our team has released a smaller patch for Biospeed version 33.0.0 to fix some minor bugs! Keep zooming through life with our improved performance 🚀 #Biospeed #update #bugfixes
 
 ### 03.05.2023 (announcement Biospreed)
