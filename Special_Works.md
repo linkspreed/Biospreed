@@ -1,3 +1,6 @@
+### 09.06.2023 (announcement Biospreed)
+- 🚨 Big news! 🔊 We've just added Biospreed to our subdomain system! 👏🏼 From now on https://biospreed.tk will redirect you to https://biospreed.linkspreed.com, but don't worry, everything stays the same! 🙌🏼 Are you excited to keep using this awesome platform? 🔗 #Biospreed #Linkspreed #Upgrades #TechNews 🤖
+
 ### 05.06.2023 (announcement Biospreed)
 - 🎉🚀 Our team is thrilled to announce the release of Biospreed Version 34.0.0. 🔥💻 This update includes exciting new features and improvements to enhance your browsing experience. Have you tried it out yet? Let us know what you think! #Biospreed #NewRelease #BrowserUpgrade 🤔💭
 
