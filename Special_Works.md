@@ -1,3 +1,27 @@
+### 21.07.2023 (announcement Biospreed)
+- 📢 Exciting news! 🎉 We are thrilled to announce the release of Version 35.0.0 for our Biospreed platform! 🚀🌱 Experience enhanced performance, new features, and bug fixes. 📲💪 Have you updated your Biospreed yet? If not, what are you waiting for? 😄 #BiospreedUpdate #NewFeatures
+
+### 21.07.2023 (announcement Biospreed)
+- https://github.com/linkspreed/Biospreed/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 21.07.2023 (announcement Biospreed)
+- The launch of version 35.0.0 of **Biospreed** was successful! 🥳
+- The new update is live now :)
+- https://biospreed.tk 🔗
+
+### 21.07.2023 (announcement Biospreed)
+- We are now starting the launch of v35.0.0.
+
+### 21.07.2023 (announcement Biospreed)
+- The servers are now ready for the launch of version 35.0.0 for **Biospreed**.
+
+### 21.07.2023 (announcement Biospreed)
+- The code is now ready for the launch of version 35.0.0 for **Biospreed**.
+
+### 21.07.2023 (announcement Biospreed)
+-  **Biospreed** gets a big update today - we are going to launch v35.0.0. 😍
+
 ### 09.06.2023 (announcement Biospreed)
 - 🚨 Big news! 🔊 We've just added Biospreed to our subdomain system! 👏🏼 From now on https://biospreed.tk will redirect you to https://biospreed.linkspreed.com, but don't worry, everything stays the same! 🙌🏼 Are you excited to keep using this awesome platform? 🔗 #Biospreed #Linkspreed #Upgrades #TechNews 🤖
 
