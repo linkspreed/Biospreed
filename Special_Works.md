@@ -1,5 +1,26 @@
-### 21.09.2023 (announcement Snoogie)
-- 🎉📣 Hey there, Snoogie fam! Exciting news 🌟 We're thrilled to announce the release of Version 39.0.0 🚀🎉 Check out the complete changelog on our Github page! 🔍📋 Have you updated yet? Share your thoughts on the latest version in the comments below! 🗨️💭 #SnoogieUpdate #NewRelease #TechTalk
+### 14.10.2023 (announcement Biospreed)
+- Biospreed 40.0.0 is here! 🚀This powerful update is packed with new features to help you get the most out of your Biospreed experience. Check out the changelog to see all the new features and improvements.
+
+### 14.10.2023 (announcement Biospreed)
+- https://github.com/linkspreed/Biospreed/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 14.10.2023 (announcement Biospreed)
+- The launch of version 40.0.0 of **Biospreed** was successful! 🥳
+- The new update is live now :)
+- https://biospreed.tk 🔗
+
+### 14.10.2023 (announcement Biospreed)
+- We are now starting the launch of 40.0.0.
+
+### 14.10.2023 (announcement Biospreed)
+- The servers are now ready for the launch of version 40.0.0 for **Biospreed**.
+
+### 14.10.2023 (announcement Biospreed)
+- The code is now ready for the launch of version 40.0.0 for **Biospreed**.
+
+### 14.10.2023 (announcement Biospreed)
+-  **Biospreed** gets a big update today - we are going to launch v40.0.0. 😍
 
 ### 21.09.2023 (announcement Biospreed)
 - 📢 Exciting news! 🎉 We are thrilled to announce the release of Version 39.0.0 for Biospreed! 🚀 Check out the complete changelog on Github to explore all the amazing updates and improvements. 🌟🔧 Have you already updated to the latest version? Let us know your thoughts! 😊 #BiospreedUpdates #NewRelease #TechNews
