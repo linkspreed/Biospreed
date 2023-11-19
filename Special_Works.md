@@ -1,3 +1,27 @@
+### 19.11.2023 (announcement Biospreed)
+- 🌱 Exciting news! We're thrilled to announce the release of Version 41.0.0 for Biospreed, our cutting-edge Biolink generator platform! 🚀🎉 Discover the power of seamless link management and take your bio to the next level. Share your thoughts, questions, or suggestions using #Biospreed41 🌿🔗 Let's grow together! #BiolinkGenerator
+
+### 19.11.2023 (announcement Biospreed)
+- https://github.com/linkspreed/Biospreed/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 19.11.2023 (announcement Biospreed)
+- The launch of version 41.0.0 of **Biospreed** was successful! 🥳
+- The new update is live now :)
+- https://biospreed.tk 🔗
+
+### 19.11.2023 (announcement Biospreed)
+- We are now starting the launch of v41.0.0.
+
+### 19.11.2023 (announcement Biospreed)
+- The servers are now ready for the launch of version 41.0.0 for **Biospreed**.
+
+### 19.11.2023 (announcement Biospreed)
+- The code is now ready for the launch of version 41.0.0 for **Biospreed**.
+
+### 19.11.2023 (announcement Biospreed)
+-  **Biospreed** gets a big update today - we are going to launch v41.0.0. 😍
+
 ### 14.10.2023 (announcement Biospreed)
 - Biospreed 40.0.0 is here! 🚀This powerful update is packed with new features to help you get the most out of your Biospreed experience. Check out the changelog to see all the new features and improvements.
 
