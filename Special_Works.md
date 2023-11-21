@@ -1,3 +1,6 @@
+### 20.11.2023 (announcement Biospreed)
+- 📢 Hey #Biospreed users! 🌟 We've just released a 🔥 hotfix for version v41.0.0! 🚀 This update includes important improvements and bug fixes 🛠️ to enhance your experience. 🙌 Share your thoughts and feedback below! We're here to listen and help. 💪 #softwareupdate #techsupport
+
 ### 19.11.2023 (announcement Biospreed)
 - 🌱 Exciting news! We're thrilled to announce the release of Version 41.0.0 for Biospreed, our cutting-edge Biolink generator platform! 🚀🎉 Discover the power of seamless link management and take your bio to the next level. Share your thoughts, questions, or suggestions using #Biospreed41 🌿🔗 Let's grow together! #BiolinkGenerator
 
