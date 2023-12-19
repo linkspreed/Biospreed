@@ -1,3 +1,24 @@
+### 19.12.2023 (announcement Biospreed)
+- https://github.com/linkspreed/Biospreed/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 19.12.2023 (announcement Biospreed)
+- The launch of version 42.0.0 of **Biospreed** was successful! 🥳
+- The new update is live now :)
+- https://biospreed.tk 🔗
+
+### 19.12.2023 (announcement Biospreed)
+- We are now starting the launch of v42.0.0.
+
+### 19.12.2023 (announcement Biospreed)
+- The servers are now ready for the launch of version 42.0.0 for **Biospreed**.
+
+### 19.12.2023 (announcement Biospreed)
+- The code is now ready for the launch of version 42.0.0 for **Biospreed**.
+
+### 19.12.2023 (announcement Biospreed)
+-  **Biospreed** gets a big update today - we are going to launch v42.0.0. 😍
+
 ### 21.11.2023 (announcement Biospreed)
 - 📢 Attention all Biospreed users! 🌟 Exciting news! 🎉 We've just updated several plugins to the latest version! 🚀🔥💻 Stay ahead of the game and enjoy enhanced features and improved performance. 😍💯 Let us know your thoughts and share your experience with #BiospreedUpgrades 🙌✨ #TechUpdates #StayUpdated
 
